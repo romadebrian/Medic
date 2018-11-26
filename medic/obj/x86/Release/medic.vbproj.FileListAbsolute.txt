@@ -1,0 +1,13 @@
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\bin\Release\medic.exe.config
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\bin\Release\medic.exe
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\bin\Release\medic.pdb
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\bin\Release\medic.xml
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Release\medic.Dokter.resources
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Release\medic.Resources.resources
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Release\medic.pasien.resources
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Release\medic.exe
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Release\medic.xml
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Release\medic.pdb

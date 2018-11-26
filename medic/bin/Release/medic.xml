@@ -1,0 +1,140 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+medic
+</name>
+</assembly>
+<members>
+<member name="P:medic.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:medic.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:medic.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:medic.medicalDataSet.dokterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:medic.medicalDataSet.obatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:medic.medicalDataSet.pasienDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:medic.medicalDataSet.rekam_medisDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:medic.medicalDataSet.userDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:medic.medicalDataSet.dokterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:medic.medicalDataSet.obatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:medic.medicalDataSet.pasienRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:medic.medicalDataSet.rekam_medisRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:medic.medicalDataSet.userRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:medic.medicalDataSet.dokterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:medic.medicalDataSet.obatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:medic.medicalDataSet.pasienRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:medic.medicalDataSet.rekam_medisRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:medic.medicalDataSet.userRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:medic.medicalDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:medic.medicalDataSetTableAdapters.dokterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:medic.medicalDataSetTableAdapters.obatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:medic.medicalDataSetTableAdapters.pasienTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:medic.medicalDataSetTableAdapters.rekam_medisTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:medic.medicalDataSetTableAdapters.userTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:medic.medicalDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(medic.medicalDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:medic.medicalDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(medic.medicalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:medic.medicalDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(medic.medicalDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:medic.medicalDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:medic.medicalDataSetTableAdapters.TableAdapterManager.UpdateAll(medic.medicalDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:medic.medicalDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:medic.medicalDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:medic.medicalDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

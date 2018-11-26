@@ -1,0 +1,53 @@
+\\roma2-pc\Users\Roma2\Documents\Visual Studio 2010\Projects\medic\medic\bin\Debug\medic.exe.config
+\\roma2-pc\Users\Roma2\Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.exe
+\\roma2-pc\Users\Roma2\Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.xml
+\\roma2-pc\Users\Roma2\Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.pdb
+\\roma2-pc\Users\Roma2\Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Dokter.resources
+\\roma2-pc\Users\Roma2\Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Resources.resources
+\\roma2-pc\Users\Roma2\Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Obat.resources
+\\roma2-pc\Users\Roma2\Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.pasien.resources
+\\roma2-pc\Users\Roma2\Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.vbproj.GenerateResource.Cache
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\bin\Debug\medic.exe.config
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\bin\Debug\medic.exe
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\bin\Debug\medic.pdb
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\bin\Debug\medic.xml
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Dokter.resources
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.MenuUtama.resources
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Transaksi.resources
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.User.resources
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Resources.resources
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Obat.resources
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.pasien.resources
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.exe
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.xml
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.pdb
+C:\Users\Roma2\documents\visual studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Login.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\bin\Debug\medic.exe.config
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.exe
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.xml
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.pdb
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Dokter.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Login.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.MenuUtama.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Transaksi.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.User.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Resources.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.Obat.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.pasien.resources
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\bin\Debug\medic.exe
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\bin\Debug\medic.pdb
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\bin\Debug\medic.xml
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\bin\Debug\medic.exe.manifest
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\bin\Debug\medic.application
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.exe.manifest
+C:\Documents and Settings\roma\My Documents\Visual Studio 2010\Projects\medic\medic\obj\x86\Debug\medic.application
+\\Roma-pc\file kuliah\Pemrograman III\Visual Setudio Project\medic\medic\bin\Debug\medic.exe.config
+\\Roma-pc\file kuliah\Pemrograman III\Visual Setudio Project\medic\medic\obj\x86\Debug\medic.exe
+\\Roma-pc\file kuliah\Pemrograman III\Visual Setudio Project\medic\medic\obj\x86\Debug\medic.xml
+\\Roma-pc\file kuliah\Pemrograman III\Visual Setudio Project\medic\medic\obj\x86\Debug\medic.pdb
